@@ -8,6 +8,8 @@ http://www.buildyourownlisp.com/chapter6_parsing
 # How to use the binaries?
 Binaries are built with Cygwin on Windows. All the required .dlls are in the bin folder.
 
+Sample output
+
     lispy> 1 + ( 21 / 45 )
     >
     regex
